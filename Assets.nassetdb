@@ -1,0 +1,33 @@
+{
+    "189724ee-7ddb-699b-522e-4cb24f946e72": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "1fd23a01-d32c-01c7-9c0d-c7c597cd9baa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "a702cce5-b2a7-7fee-8000-8ad26b88054d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Misbits_Thumb.tex.nasset"
+    },
+    "b39b5086-66a2-46c1-a98e-6ca99aafba24": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Misbits.scene.nasset"
+    },
+    "df572f07-5fb9-4908-b752-55856dc39915": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Misbits",
+        "thumbnail": "a702cce5-b2a7-7fee-8000-8ad26b88054d",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "189724ee-7ddb-699b-522e-4cb24f946e72"
+}
